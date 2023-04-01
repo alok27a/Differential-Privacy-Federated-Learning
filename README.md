@@ -1,10 +1,42 @@
+<p align="center">
 <img src="https://user-images.githubusercontent.com/73957024/229306822-1e4dca90-067b-41ad-97e2-b13df128370f.png" alt="Logo" width="700">
+</p>
+</br>
 
-<br>
-<h1 align="center">PrivacyFed 🔏
-</h1>Differential Privacy in Federated Learning <a href="https://github.com/alok27a/Differential-Privacy-Federated-Learning">\\\*\\\*Explore the docs »\\\*\\\*</a> • <a href="https://github.com/alok27a//issues">Report Bug</a> • <a href="https://github.com/alok27a//issues">Request Feature</a> •
 
-<a href="https://github.com/alok27a/graphs/contributors"><img src="https://img.shields.io/github/contributors/alok27a/Differential-Privacy-Federated-Learning.svg?style=for-the-badge"> </a> <a href="https://github.com/alok27a/network/members"><img src="https://img.shields.io/github/forks/alok27a/Differential-Privacy-Federated-Learning?style=for-the-badge"> </a> <a href="https://github.com/alok27a/stargazers"><img src="https://img.shields.io/github/stars/alok27a/Differential-Privacy-Federated-Learning?style=for-the-badge"> </a> <a href="https://github.com/alok27a/issues"><img src="https://img.shields.io/github/issues/alok27a/Differential-Privacy-Federated-Learning?style=for-the-badge"></a>
+<!-- PROJECT LOGO -->
+<p align="center">
+  <h1 align="center">PrivacyFed 🔏</h1>
+
+  <p align="center">
+    Differential Privacy in Federated Learning 
+    <br />
+    <a href="https://github.com/alok27a/Differential-Privacy-Federated-Learning"><strong>Explore the docs »</strong></a> 
+    <br />
+    •
+    <a href="https://github.com/alok27a//Differential-Privacy-Federated-Learning/issues">Report Bug</a> 
+    •
+    <a href="https://github.com/alok27a//Differential-Privacy-Federated-Learning/issues">Request Feature</a> 
+    •
+  </p>
+</p>
+
+<!-- BADGES -->
+<p align="center">
+  <a href="https://github.com/alok27a/Differential-Privacy-Federated-Learning/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/alok27a/Differential-Privacy-Federated-Learning.svg?style=for-the-badge">
+  </a>
+  <a href="https://github.com/alok27a/Differential-Privacy-Federated-Learning/network/members">
+    <img src="https://img.shields.io/github/forks/alok27a/Differential-Privacy-Federated-Learning?style=for-the-badge">
+  </a>  
+  <a href="https://github.com/alok27a/Differential-Privacy-Federated-Learning/stargazers">
+    <img src="https://img.shields.io/github/stars/alok27a/Differential-Privacy-Federated-Learning?style=for-the-badge">
+  </a>
+  <a href="https://github.com/alok27a/Differential-Privacy-Federated-Learning/issues">
+    <img src="https://img.shields.io/github/issues/alok27a/Differential-Privacy-Federated-Learning?style=for-the-badge">
+  </a>
+</p>
+
 
 ## 💡 Inspiration
 
